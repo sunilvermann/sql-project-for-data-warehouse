@@ -31,3 +31,7 @@ Develop SQL-based analytics to deliver detailed insights into:
  - **Sales Trends**
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+
+## 🌟About Me
+
+Hi there! I'm **Sunil Verma**, a Data Analyst passionate about turning data into clear, actionable insights. I enjoy working with SQL, Power BI, and analytics techniques to solve business problems and support strategic decisions.
